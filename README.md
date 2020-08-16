@@ -5,13 +5,13 @@
 <body>
 
 <div class="w3-container w3-green">
-  <h1>W3Schools Demo</h1>
-  <p>Resize this responsive page!</p>
+  <h1>Vaibhav's Webpage</h1>
+  <p>A sample</p>
 </div>
 
 <div class="w3-row-padding">
   <div class="w3-third">
-    <h2>London</h2>
+    <h2>Education</h2>
     <p>London is the capital city of England.</p>
     <p>It is the most populous city in the United Kingdom,
     with a metropolitan area of over 13 million inhabitants.</p>
